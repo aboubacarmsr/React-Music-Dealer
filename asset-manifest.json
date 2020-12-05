@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-music-app/static/css/main.8ee10995.chunk.css",
+    "main.js": "/react-music-app/static/js/main.1bac3b2b.chunk.js",
+    "main.js.map": "/react-music-app/static/js/main.1bac3b2b.chunk.js.map",
+    "runtime-main.js": "/react-music-app/static/js/runtime-main.9c1e0254.js",
+    "runtime-main.js.map": "/react-music-app/static/js/runtime-main.9c1e0254.js.map",
+    "static/js/2.36863601.chunk.js": "/react-music-app/static/js/2.36863601.chunk.js",
+    "static/js/2.36863601.chunk.js.map": "/react-music-app/static/js/2.36863601.chunk.js.map",
+    "index.html": "/react-music-app/index.html",
+    "static/css/main.8ee10995.chunk.css.map": "/react-music-app/static/css/main.8ee10995.chunk.css.map",
+    "static/js/2.36863601.chunk.js.LICENSE.txt": "/react-music-app/static/js/2.36863601.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1e0254.js",
+    "static/js/2.36863601.chunk.js",
+    "static/css/main.8ee10995.chunk.css",
+    "static/js/main.1bac3b2b.chunk.js"
+  ]
+}
